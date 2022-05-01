@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-main Skill
-<img src="https://img.shields.io/badge/test-blue?style=plastic&logo=Java&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon330&show_icons=true&theme=tokyonight)
+
+<!--img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=Java&logoColor=white"/-->
 
 <!--
 **Hyeon330/hyeon330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
