@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap.js&logoColor=white"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon330&show_icons=true&theme=tokyonight)
