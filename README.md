@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=Node.js&logoColor=white"/>
 </div>
 
