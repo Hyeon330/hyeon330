@@ -1,9 +1,13 @@
 <!-- ### Hi there 👋-->
+### My tech Stack 📕
+<img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=Java&logoColor=white"/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon330&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon330&show_icons=true&theme=tokyonight)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon330&layout=compact&theme=tokyonight)
-<!--img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=Java&logoColor=white"/-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon330&layout=compact&theme=tokyonight)
+  
+  
+
 
 <!--
 **Hyeon330/hyeon330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
