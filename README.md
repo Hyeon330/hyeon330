@@ -1,6 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon330&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon330&layout=compact&theme=tokyonight)
 
 <!--img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=Java&logoColor=white"/-->
 
